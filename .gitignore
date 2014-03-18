@@ -1,3 +1,6 @@
+# Carfinder specific
+res/values/strings_private.xml
+
 # Android specific
 # built application files
 *.apk

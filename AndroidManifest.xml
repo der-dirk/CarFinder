@@ -50,12 +50,12 @@
         <!-- RELEASE KEY: -->
         <!--meta-data
             android:name="com.google.android.maps.v2.API_KEY"
-            android:value="AIzaSyA4Ex6pTDQf1Lj2AP3LErBQgDaIktYJHoY" /-->
+            android:value="@string/carfinder_maps_v2_api_key_release" /-->
         
         <!-- DEBUG KEY: -->
         <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
-            android:value="AIzaSyCLhIv4s8UtJWJ5xjZVRqeE9piWGTwLXM4" />
+            android:value="@string/carfinder_maps_v2_api_key_debug" />
         
         
         <meta-data
